@@ -9,8 +9,10 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
 ### 🚀 Sobre Mim
 
 * 🎓 **Formação:** Cursando Ciência da Computação | Técnico em Eletrônica e Desenvolvimento de Sistemas.
-* 💼 **Background:** Tenho experiência prática em chão de fábrica, introdução de novos produtos (NPI) e manutenção de equipamentos hospitalares complexos (Ressonância Magnética, Tomógrafos).
-* 💡 **Foco:** Atualmente estou migrando essa experiência lógica para o desenvolvimento **Full Stack**, criando soluções robustas e escaláveis.
+🏆 **Destaques Acadêmicos:** Tenho experiência focada no desenvolvimento de soluções inovadoras, com reconhecimento na **Mostratech**:
+    * 🥈 **2º Melhor Projeto:** *SkinHealthAI*
+    * 🥉 **3º Melhor Projeto:** *DailyFit*
+* 💡 **Foco:** Atualmente estou migrando minha bagagem técnica para o desenvolvimento **Full Stack**, criando aplicações que resolvem problemas reais.
 * 📍 **Localização:** Florianópolis, SC.
 
 ---
@@ -45,5 +47,5 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
 
 ### 📫 Contato (Reach me)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marvinmatheus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvinmatheus/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvinmatheus4@gmail.com)
