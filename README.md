@@ -6,7 +6,7 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Sobre Mim (Who am I?)
 
 * 🎓 **Formação:** Cursando Ciência da Computação | Técnico em Eletrônica e Desenvolvimento de Sistemas.
  
