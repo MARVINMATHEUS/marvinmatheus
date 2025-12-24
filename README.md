@@ -1,17 +1,17 @@
 # Olá, eu sou o Marvin Matheus! 👋
 
-### 🔧 Técnico em Eletrônica | 💻 Estudante de Ciência da Computação
+### 🧑🏼‍💻 Técnico em Desenvolvimento de Sistemas|🔧 Técnico em Eletrônica | 💻 Estudante de Ciência da Computação
 
-Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, trazendo uma bagagem sólida de **Engenharia de Manufatura e Eletrônica (NPI)** para o mundo do Desenvolvimento de Software. Meu objetivo é unir o rigor técnico da indústria com a agilidade do código.
+Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, trazendo uma bagagem sólida de **Engenharia de Manufatura e Eletrônica** para o mundo do Desenvolvimento de Software. Meu objetivo é unir o rigor técnico da indústria com a agilidade do código.
 
 ---
 
-### 🚀 Sobre Mim (Who am I?)
+### 🚀 Sobre Mim
 
 * 🎓 **Formação:** Cursando Ciência da Computação | Técnico em Eletrônica e Desenvolvimento de Sistemas.
 * 💼 **Background:** Tenho experiência prática em chão de fábrica, introdução de novos produtos (NPI) e manutenção de equipamentos hospitalares complexos (Ressonância Magnética, Tomógrafos).
 * 💡 **Foco:** Atualmente estou migrando essa experiência lógica para o desenvolvimento **Full Stack**, criando soluções robustas e escaláveis.
-* 📍 **Localização:** Manaus, AM.
+* 📍 **Localização:** Florianópolis, SC.
 
 ---
 
@@ -43,16 +43,7 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARVINMATHEUS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARVINMATHEUS&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Contato (Reach me)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marvinmatheus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marvinmatheus/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvinmatheus4@gmail.com)
