@@ -12,8 +12,8 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
  
 🏆 **Destaques Acadêmicos:** Tenho experiência focada no desenvolvimento de soluções inovadoras, com reconhecimento na **Mostratech**:
 
-     *🥈 **2º Melhor Projeto:** *SkinHealthAI*
-     *🥉 **3º Melhor Projeto:** *DailyFit*
+     🥈 2º Melhor Projeto: SkinHealthAI
+     🥉 3º Melhor Projeto: DailyFit
       
 * 💡 **Foco:** Atualmente estou migrando minha bagagem técnica para o desenvolvimento **Full Stack**, criando aplicações que resolvem problemas reais.
 * 📍 **Localização:** Florianópolis, SC.
