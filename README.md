@@ -10,7 +10,8 @@ Seja bem-vindo ao meu perfil! Sou um profissional em transição de carreira, tr
 
 * 🎓 **Formação:** Cursando Ciência da Computação | Técnico em Eletrônica e Desenvolvimento de Sistemas.
 * 
-*🏆 **Destaques Acadêmicos:** Tenho experiência focada no desenvolvimento de soluções inovadoras, com reconhecimento na **Mostratech**:
+🏆 **Destaques Acadêmicos:** Tenho experiência focada no desenvolvimento de soluções inovadoras, com reconhecimento na **Mostratech**:
+
     * 🥈 **2º Melhor Projeto:** *SkinHealthAI*
     * 🥉 **3º Melhor Projeto:** *DailyFit*
       
